@@ -32,9 +32,7 @@ function Listing() {
 
   return (
     <>
-   
       <Pagination />
-
       <div className="container">
         <div className="row">
           {page.content.map(movie =>(
@@ -42,8 +40,6 @@ function Listing() {
             <MovieCard movie={movie} />
           </div>
           ))}
-
-      
         </div>
       </div>
     </>
