@@ -28,6 +28,8 @@
 <h2>:bookmark_tabs: Descrição</h2>
 <p>Semana Spring React.</p>
 <p> Foi um evento de uma semana que foi proporcionado pela dev superior, em que realizamos uma aplicação com o back e o front end utilizando uma API Rest <p>
+<p>O Projeto possui um BD em PostgreSQL o backend foi desenvolvido em Spring e o front em React </p>
+
 <h2>Objetivos do projeto</h2>
 <li>Criar projetos backend e frontend</li>
 <li>Salvar os projeto no Github em monorepo</li>
